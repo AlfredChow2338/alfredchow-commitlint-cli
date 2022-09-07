@@ -1,5 +1,5 @@
 {
-  "name": "@alfredcohw/commitlint-cli",
+  "name": "@alfredchow/commitlint-cli",
   "version": "1.0.0",
   "description": "Lint your commit messages",
   "files": [
