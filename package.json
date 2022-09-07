@@ -19,13 +19,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/conventional-changelog/commitlint.git",
+    "url": "https://github.com/AlfredChow2338/alfredchow-commitlint-cli",
     "directory": "@commitlint/cli"
   },
-  "bugs": {
-    "url": "https://github.com/conventional-changelog/commitlint/issues"
-  },
-  "homepage": "https://commitlint.js.org/",
+  "homepage": "https://github.com/AlfredChow2338/alfredchow-commitlint-cli",
   "keywords": [
     "conventional-changelog",
     "commitlint",
